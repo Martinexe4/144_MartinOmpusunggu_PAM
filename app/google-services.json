@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "675039094207",
+    "project_id": "martinproject-64800",
+    "storage_bucket": "martinproject-64800.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675039094207:android:bd24863050aeb8ec77ed0a",
+        "android_client_info": {
+          "package_name": "com.example.martinproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXrOQ7LGtimUQUcJ9XjPwEgyjVsKjWymU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
